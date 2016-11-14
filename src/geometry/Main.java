@@ -47,7 +47,7 @@ public class Main {
         shapeList.add(new Sphere(1,1,6,3));
 
         shapeList.add(new RightPyramid(1,2,3,5,5,3));
-        shapeList.add(new RightPyramid(5,5,5,2,2,2));
+        shapeList.add(new RightPyramid(1,5,5,2,2,2));
     }
 
 
